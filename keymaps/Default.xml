@@ -1,0 +1,21 @@
+<keymap version="1" name="Default 复制" parent="$default">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="$ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="编辑 EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="编辑 ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="编辑 TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+</keymap>
